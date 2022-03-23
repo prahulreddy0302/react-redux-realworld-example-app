@@ -13,6 +13,7 @@ sonarqubeScanner({
 	    'sonar.language':'js',
             'sonar.sourceEncoding':'UTF-8',
             'sonar.sources': '.',
+	    'sonar.javascript.file.suffixes'='.js,.jsx' 
 	  //'sonar.tests': 'specs',
           //'sonar.inclusions' : 'src/**'
        },
