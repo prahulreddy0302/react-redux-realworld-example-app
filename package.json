@@ -7,7 +7,7 @@
     "react-scripts": "1.1.1"
   },
   "publishConfig": {
-    "registry": "http://54.159.194.155:9980/rahul/repository/react-repository1/"
+    "registry": "http://54.159.194.155:9980/rahul/repository/reactApps/react-redux-realworld-example-app"
   },
   "dependencies": {
     "history": "^4.6.3",
