@@ -5,7 +5,7 @@ sonarqubeScanner({
        options : {
 	    'sonar.projectDescription': 'React Application',
 	    'sonar.projectName': 'React application',
-	    'sonar.projectKey':'React application ',
+	    'sonar.projectKey':'ReactApplication',
 	    //'sonar.login': '007fa4025c11328682eea2bf88c1479976633faf',
 	    'sonar.login': 'admin',
 	    'sonar.password': 'admin',
